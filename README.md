@@ -1,8 +1,8 @@
 # npm-statistics
 
-![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDavidWells%2Fnpm-statistics%2Fmaster%2Fstats.json)
+![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSTRML%2Fnpm-statistics%2Fmaster%2Fstats.json)
 
-NPM Download Statistics for DavidWells Open Source Projects. Updated Daily.
+NPM Download Statistics for STRML Open Source Projects. Updated Daily.
 
 ## Downloads
 
@@ -66,7 +66,7 @@ NPM Download Statistics for DavidWells Open Source Projects. Updated Daily.
 
 ```js
 {
-  "npm-stats": "DavidWells"
+  "npm-stats": "STRML"
 }
 ```
 
