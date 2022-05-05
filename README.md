@@ -8,54 +8,17 @@ NPM Download Statistics for STRML Open Source Projects. Updated Daily.
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                                                                 | Downloads     |
-| ---------------------------------------------------------------------------------------------------- | ------------- |
-| [async-limiter](https://www.npmjs.com/package/async-limiter)                                         | 608752921     |
-| [react-draggable](https://www.npmjs.com/package/react-draggable)                                     | 168592902     |
-| [react-resizable](https://www.npmjs.com/package/react-resizable)                                     | 17625952      |
-| [react-grid-layout](https://www.npmjs.com/package/react-grid-layout)                                 | 12525364      |
-| [keymirror](https://www.npmjs.com/package/keymirror)                                                 | 10557101      |
-| [babel-watch](https://www.npmjs.com/package/babel-watch)                                             | 1275021       |
-| [toobusy-js](https://www.npmjs.com/package/toobusy-js)                                               | 1003634       |
-| [forward-emitter](https://www.npmjs.com/package/forward-emitter)                                     | 606307        |
-| [textfit](https://www.npmjs.com/package/textfit)                                                     | 327119        |
-| [ampersand-collection-lodash-mixin](https://www.npmjs.com/package/ampersand-collection-lodash-mixin) | 243147        |
-| [xlsx-writestream](https://www.npmjs.com/package/xlsx-writestream)                                   | 106576        |
-| [zcash-bitcore-lib](https://www.npmjs.com/package/zcash-bitcore-lib)                                 | 74907         |
-| [jsxhint](https://www.npmjs.com/package/jsxhint)                                                     | 45643         |
-| [react-addons](https://www.npmjs.com/package/react-addons)                                           | 34461         |
-| [rc-css-transition-group-modern](https://www.npmjs.com/package/rc-css-transition-group-modern)       | 16517         |
-| [react-router-component](https://www.npmjs.com/package/react-router-component)                       | 15770         |
-| [bitmex-realtime-api](https://www.npmjs.com/package/bitmex-realtime-api)                             | 13242         |
-| [emojione_minimal](https://www.npmjs.com/package/emojione_minimal)                                   | 10794         |
-| [react-localstorage](https://www.npmjs.com/package/react-localstorage)                               | 7915          |
-| [redis-token-bucket-ratelimiter](https://www.npmjs.com/package/redis-token-bucket-ratelimiter)       | 7194          |
-| [react-portal-minimal](https://www.npmjs.com/package/react-portal-minimal)                           | 6853          |
-| [mongoose-filter-denormalize](https://www.npmjs.com/package/mongoose-filter-denormalize)             | 1549          |
-| [json-to-flow](https://www.npmjs.com/package/json-to-flow)                                           | 503           |
-| [npm-2](https://www.npmjs.com/package/npm-2)                                                         | 431           |
-| [babel-preset-es2015-maybe-webpack](https://www.npmjs.com/package/babel-preset-es2015-maybe-webpack) | 389           |
-| [graylog-cli-dashboard](https://www.npmjs.com/package/graylog-cli-dashboard)                         | 308           |
-| [backbone.queryrouter](https://www.npmjs.com/package/backbone.queryrouter)                           | 299           |
-| [@bitmex/redis-memoizer](https://www.npmjs.com/package/@bitmex/redis-memoizer)                       | 298           |
-| [geoip-country-only](https://www.npmjs.com/package/geoip-country-only)                               | 258           |
-| [react-router-component-transition](https://www.npmjs.com/package/react-router-component-transition) | 232           |
-| [storm-node](https://www.npmjs.com/package/storm-node)                                               | 201           |
-| [zcash-bitcore-build](https://www.npmjs.com/package/zcash-bitcore-build)                             | 199           |
-| [verdaccio-ldap-group-fix](https://www.npmjs.com/package/verdaccio-ldap-group-fix)                   | 192           |
-| [@bitmex/env12](https://www.npmjs.com/package/@bitmex/env12)                                         | 168           |
-| [react-json-tree-editable](https://www.npmjs.com/package/react-json-tree-editable)                   | 154           |
-| [slash-test-ignore-me](https://www.npmjs.com/package/slash-test-ignore-me)                           | 146           |
-| [bitmex-delta-server](https://www.npmjs.com/package/bitmex-delta-server)                             | 143           |
-| [subscription-dedupe](https://www.npmjs.com/package/subscription-dedupe)                             | 125           |
-| [parse-stream](https://www.npmjs.com/package/parse-stream)                                           | 122           |
-| [zcash-bitcore-node](https://www.npmjs.com/package/zcash-bitcore-node)                               | 119           |
-| [grunt-inline-template-compile](https://www.npmjs.com/package/grunt-inline-template-compile)         | 109           |
-| [awesome-javascript](https://www.npmjs.com/package/awesome-javascript)                               | 109           |
-| [fluxxor-autobind](https://www.npmjs.com/package/fluxxor-autobind)                                   | 103           |
-| [private-lodash-mixins](https://www.npmjs.com/package/private-lodash-mixins)                         | 93            |
-| [zcash-bitcore-message](https://www.npmjs.com/package/zcash-bitcore-message)                         | 79            |
-| **Sum**                                                                                              | **821855669** |
+| Name                                                 | Downloads                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [message](https://www.npmjs.com/package/message)     | jOOQ; SQL [insert into "public"."download_count" ("package_name", "date", "count") values (?, cast(? as date), ?)]; ERROR: could not access status of transaction 0
+  Detail: Could not write to file "pg_subtrans/3DF8" at offset 81920: No space left on device.; nested exception is org.postgresql.util.PSQLException: ERROR: could not access status of transaction 0
+  Detail: Could not write to file "pg_subtrans/3DF8" at offset 81920: No space left on device.                                                                                    |
+| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [timestamp](https://www.npmjs.com/package/timestamp) | 2022-05-05T00:22:20.360+0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| [path](https://www.npmjs.com/package/path)           | /npm-stat/api/download-counts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Sum**                                              | **jOOQ; SQL [insert into "public"."download_count" ("package_name", "date", "count") values (?, cast(? as date), ?)]; ERROR: could not access status of transaction 0
+  Detail: Could not write to file "pg_subtrans/3DF8" at offset 81920: No space left on device.; nested exception is org.postgresql.util.PSQLException: ERROR: could not access status of transaction 0
+  Detail: Could not write to file "pg_subtrans/3DF8" at offset 81920: No space left on device.Internal Server Error/npm-stat/api/download-counts02022-05-05T00:22:20.360+0000** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
