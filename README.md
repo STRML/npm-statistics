@@ -10,28 +10,28 @@ NPM Download Statistics for STRML Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads     |
 | ---------------------------------------------------------------------------------------------------- | ------------- |
-| [async-limiter](https://www.npmjs.com/package/async-limiter)                                         | 478008602     |
-| [react-draggable](https://www.npmjs.com/package/react-draggable)                                     | 105341603     |
-| [react-resizable](https://www.npmjs.com/package/react-resizable)                                     | 35334978      |
-| [react-grid-layout](https://www.npmjs.com/package/react-grid-layout)                                 | 24385486      |
-| [keymirror](https://www.npmjs.com/package/keymirror)                                                 | 14525132      |
-| [toobusy-js](https://www.npmjs.com/package/toobusy-js)                                               | 1266480       |
-| [babel-watch](https://www.npmjs.com/package/babel-watch)                                             | 1205601       |
-| [forward-emitter](https://www.npmjs.com/package/forward-emitter)                                     | 750133        |
-| [ampersand-collection-lodash-mixin](https://www.npmjs.com/package/ampersand-collection-lodash-mixin) | 543171        |
-| [textfit](https://www.npmjs.com/package/textfit)                                                     | 315340        |
-| [xlsx-writestream](https://www.npmjs.com/package/xlsx-writestream)                                   | 142811        |
-| [zcash-bitcore-lib](https://www.npmjs.com/package/zcash-bitcore-lib)                                 | 59578         |
-| [redis-token-bucket-ratelimiter](https://www.npmjs.com/package/redis-token-bucket-ratelimiter)       | 33971         |
-| [react-addons](https://www.npmjs.com/package/react-addons)                                           | 31112         |
-| [jsxhint](https://www.npmjs.com/package/jsxhint)                                                     | 19115         |
-| [react-localstorage](https://www.npmjs.com/package/react-localstorage)                               | 14636         |
-| [react-router-component](https://www.npmjs.com/package/react-router-component)                       | 12609         |
-| [react-portal-minimal](https://www.npmjs.com/package/react-portal-minimal)                           | 9569          |
-| [rc-css-transition-group-modern](https://www.npmjs.com/package/rc-css-transition-group-modern)       | 8200          |
-| [bitmex-realtime-api](https://www.npmjs.com/package/bitmex-realtime-api)                             | 5563          |
-| [emojione_minimal](https://www.npmjs.com/package/emojione_minimal)                                   | 5483          |
-| [json-to-flow](https://www.npmjs.com/package/json-to-flow)                                           | 395           |
+| [async-limiter](https://www.npmjs.com/package/async-limiter)                                         | 476675539     |
+| [react-draggable](https://www.npmjs.com/package/react-draggable)                                     | 105044039     |
+| [react-resizable](https://www.npmjs.com/package/react-resizable)                                     | 35263236      |
+| [react-grid-layout](https://www.npmjs.com/package/react-grid-layout)                                 | 24337172      |
+| [keymirror](https://www.npmjs.com/package/keymirror)                                                 | 14494895      |
+| [toobusy-js](https://www.npmjs.com/package/toobusy-js)                                               | 1264810       |
+| [babel-watch](https://www.npmjs.com/package/babel-watch)                                             | 1201603       |
+| [forward-emitter](https://www.npmjs.com/package/forward-emitter)                                     | 747867        |
+| [ampersand-collection-lodash-mixin](https://www.npmjs.com/package/ampersand-collection-lodash-mixin) | 541167        |
+| [textfit](https://www.npmjs.com/package/textfit)                                                     | 314612        |
+| [xlsx-writestream](https://www.npmjs.com/package/xlsx-writestream)                                   | 142623        |
+| [zcash-bitcore-lib](https://www.npmjs.com/package/zcash-bitcore-lib)                                 | 59468         |
+| [redis-token-bucket-ratelimiter](https://www.npmjs.com/package/redis-token-bucket-ratelimiter)       | 33937         |
+| [react-addons](https://www.npmjs.com/package/react-addons)                                           | 31010         |
+| [jsxhint](https://www.npmjs.com/package/jsxhint)                                                     | 19031         |
+| [react-localstorage](https://www.npmjs.com/package/react-localstorage)                               | 16607         |
+| [react-router-component](https://www.npmjs.com/package/react-router-component)                       | 12590         |
+| [react-portal-minimal](https://www.npmjs.com/package/react-portal-minimal)                           | 9539          |
+| [rc-css-transition-group-modern](https://www.npmjs.com/package/rc-css-transition-group-modern)       | 8170          |
+| [bitmex-realtime-api](https://www.npmjs.com/package/bitmex-realtime-api)                             | 5550          |
+| [emojione_minimal](https://www.npmjs.com/package/emojione_minimal)                                   | 5456          |
+| [json-to-flow](https://www.npmjs.com/package/json-to-flow)                                           | 396           |
 | [babel-preset-es2015-maybe-webpack](https://www.npmjs.com/package/babel-preset-es2015-maybe-webpack) | 364           |
 | [backbone.queryrouter](https://www.npmjs.com/package/backbone.queryrouter)                           | 341           |
 | [npm-2](https://www.npmjs.com/package/npm-2)                                                         | 322           |
@@ -41,7 +41,7 @@ NPM Download Statistics for STRML Open Source Projects. Updated Daily.
 | [react-router-component-transition](https://www.npmjs.com/package/react-router-component-transition) | 208           |
 | [graylog-cli-dashboard](https://www.npmjs.com/package/graylog-cli-dashboard)                         | 193           |
 | [verdaccio-ldap-group-fix](https://www.npmjs.com/package/verdaccio-ldap-group-fix)                   | 170           |
-| [storm-node](https://www.npmjs.com/package/storm-node)                                               | 137           |
+| [storm-node](https://www.npmjs.com/package/storm-node)                                               | 141           |
 | [grunt-inline-template-compile](https://www.npmjs.com/package/grunt-inline-template-compile)         | 135           |
 | [zcash-bitcore-build](https://www.npmjs.com/package/zcash-bitcore-build)                             | 131           |
 | [bitmex-delta-server](https://www.npmjs.com/package/bitmex-delta-server)                             | 130           |
@@ -55,7 +55,7 @@ NPM Download Statistics for STRML Open Source Projects. Updated Daily.
 | [awesome-javascript](https://www.npmjs.com/package/awesome-javascript)                               | 79            |
 | [private-lodash-mixins](https://www.npmjs.com/package/private-lodash-mixins)                         | 78            |
 | [zcash-bitcore-message](https://www.npmjs.com/package/zcash-bitcore-message)                         | 67            |
-| **Sum**                                                                                              | **662023294** |
+| **Sum**                                                                                              | **660233047** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
